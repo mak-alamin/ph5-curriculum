@@ -1,0 +1,9 @@
+.left-sidebar {
+  flex-basis: 30%;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: #2f5389;
+  margin-bottom: 3px;
+  text-align: left;
+}

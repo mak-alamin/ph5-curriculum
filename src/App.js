@@ -4,7 +4,7 @@ import MainContent from "./containers/MainContent/MainContent";
 
 function App() {
   return (
-    <div className="d-flex align-items-start">
+    <div className="container-fluid d-flex my-5">
       <LeftSidebar></LeftSidebar>
       <MainContent></MainContent>
     </div>
